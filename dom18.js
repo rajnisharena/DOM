@@ -1,0 +1,20 @@
+
+// 18. Webiste Name: [Philips](https://www.philips.co.in/)
+
+// ### Topics
+
+//      querySelector,style,backgroundcolor
+
+// ### Sample Image
+
+// ![Sample One](./Pic34.png)
+
+// ### Tasks
+
+//     change the background colour blue to orange
+
+// ### Output
+
+// ![Output](./Pic35.png)
+
+document.querySelector(".p-f03-footer-container ").style.background="orange"
